@@ -12,6 +12,10 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdabarik&theme=dark)](https://git.io/streak-stats)
 </div>
 
+![mdabarik's Stats](https://github-readme-stats.vercel.app/api?username=mdabarik&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
+![mdabarik's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mdabarik&theme=highcontrast&hide_border=true)
+![mdabarik's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdabarik&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
+
 <br />
 
 
@@ -57,6 +61,11 @@
 
 
 <br/>  
+
+
+
+
+
 
 <!-- 
 <div align="center">
