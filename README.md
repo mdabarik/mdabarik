@@ -13,8 +13,7 @@
 
 ### 📨 Contact with me
 <div align="center">
-
-[![Mail](https://raw.githubusercontent.com/mdabarik/mdabarik/main/images-icons/icons/gmail.png?style=for-the-badge&size=30)
+<img src="https://raw.githubusercontent.com/mdabarik/mdabarik/main/images-icons/icons/gmail.png" alt="Mail" style="width: 100px; height: auto;">
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-a-barik/) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/mdabarik/)
 [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)](https://auth.geeksforgeeks.org/user/mdabarik)
