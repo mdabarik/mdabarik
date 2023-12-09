@@ -12,18 +12,13 @@
 
 ![mdabarik's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mdabarik&theme=highcontrast&hide_border=true)
 </div>
-
+<!-- 
 <div align="center">
 
 ![mdabarik's Stats](https://github-readme-stats.vercel.app/api?username=mdabarik&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
 
 ![mdabarik's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdabarik&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
-</div>
-
-<div style="width: 100%;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdabarik&theme=highcontrast&hide_border=true" alt="mdabarik's Streak">
-</div>
-
+</div> -->
 
 <br />
 
