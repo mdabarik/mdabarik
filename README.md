@@ -16,6 +16,12 @@
 <a href="mailto:mdabarik19@gmail.com">
   <img src="https://raw.githubusercontent.com/mdabarik/mdabarik/main/images-icons/icons/gmail.png" alt="Mail" style="width: 50px; height: auto;">
 </a>
+<a href="https://leetcode.com/mdabarik/">
+  <img src="https://raw.githubusercontent.com/mdabarik/mdabarik/main/social-icons/leetcode.png" alt="Mail" style="width: 50px; height: auto;">
+</a>
+<a href="https://www.udemy.com/user/abdul-barik-3/">
+  <img src="https://raw.githubusercontent.com/mdabarik/mdabarik/main/social-icons/udemy.png" alt="Mail" style="width: 50px; height: auto;">
+</a>
 </div>
 
 ### 💻 Technical Skills
