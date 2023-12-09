@@ -35,9 +35,9 @@
 <br />
 
 ## 💻 My Technical Skills
-<table align="left"><tr align="left" ><td valign="top" width="100%">
+<!-- <table align="left"><tr align="left" ><td valign="top" width="100%"> -->
 
-<div align="left">  
+<!-- <div align="left">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
@@ -48,13 +48,20 @@
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /></a>  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-</div>
-
+</div> -->
+<!-- 
 </td>
 
 
 </tr></table>  
 
 
-<br/>  
+<br/>   -->
 
+<br />
+
+<!-- source: https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
+<div>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,materialui,react,nodejs,express,mongodb,firebase,git,github,c,java,r,postgresql)](https://skillicons.dev)
+</div>
