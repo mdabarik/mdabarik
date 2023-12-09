@@ -11,21 +11,8 @@
 </div>
 
 
-### 📨 Contact with me
-<div align="center" style="display:flex;gap:5px">
-  <a style="background-color:lightgray; border-radius: 10px; padding: 5px;" href="mailto:mdabarik19@gmail.com">
-    <img src="https://raw.githubusercontent.com/mdabarik/mdabarik/main/images-icons/icons/gmail.png" alt="Mail" style="width: 50px; height: 35px; border-radius: 50%;">
-  </a>
-  <a style="background-color:lightgray; border-radius: 10px; padding: 5px;" href="https://leetcode.com/mdabarik/">
-    <img src="https://raw.githubusercontent.com/mdabarik/mdabarik/main/social-icons/leetcode.png" alt="LeetCode" style="width: 50px; height: 50px; border-radius: 10px;">
-  </a>
-  <a style="background-color:lightgray; border-radius: 10px; padding: 5px;" href="https://www.udemy.com/user/abdul-barik-3/">
-    <img src="https://raw.githubusercontent.com/mdabarik/mdabarik/main/social-icons/udemy.png" alt="Udemy" style="width: 50px; height: 50px; border-radius: 10px;">
-  </a>
-</div>
-
+### 📨 Contact With Me
 <div align="center">
-<h3>Let's Connect</h3>
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-a-barik/) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/mdabarik/)
