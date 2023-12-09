@@ -7,14 +7,22 @@
 
 
 ### 📊 Current Statistics
+
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdabarik&theme=dark)](https://git.io/streak-stats)
+![mdabarik's Stats](https://github-readme-stats.vercel.app/api?username=mdabarik&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
 </div>
 
-![mdabarik's Stats](https://github-readme-stats.vercel.app/api?username=mdabarik&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
+<div align="center">
+
 ![mdabarik's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mdabarik&theme=highcontrast&hide_border=true)
+</div>
+
+
+<div align="center">
+
 ![mdabarik's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdabarik&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
+</div>
 
 <br />
 
