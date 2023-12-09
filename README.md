@@ -7,8 +7,9 @@
 ### 📊 Current Statistics
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdabarik&theme=dark)](https://git.io/streak-stats)
-</div>
+<a href="mailto:your@email.com">
+  <img src="https://raw.githubusercontent.com/mdabarik/mdabarik/main/images-icons/icons/gmail.png" alt="Mail" style="width: 50px; height: auto;">
+</a>
 
 
 ### 📨 Contact with me
