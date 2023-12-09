@@ -7,15 +7,15 @@
 ### 📊 Current Statistics
 <div align="center">
 
-<a href="mailto:your@email.com">
-  <img src="https://raw.githubusercontent.com/mdabarik/mdabarik/main/images-icons/icons/gmail.png" alt="Mail" style="width: 50px; height: auto;">
-</a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdabarik&theme=dark)](https://git.io/streak-stats)
+</div>
 
 
 ### 📨 Contact with me
 <div align="center">
-<img src="https://raw.githubusercontent.com/mdabarik/mdabarik/main/images-icons/icons/gmail.png" alt="Mail" style="width: 50px; height: auto;">
-
+<a href="mailto:your@email.com">
+  <img src="https://raw.githubusercontent.com/mdabarik/mdabarik/main/images-icons/icons/gmail.png" alt="Mail" style="width: 50px; height: auto;">
+</a>
 </div>
 
 ### 💻 Technical Skills
