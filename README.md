@@ -28,7 +28,7 @@
 <br />
 
 ## 💻 My Technical Skills
-<table><tr><td width="100%">
+<table><tr><td align="center" width="100%">
 
 <div align="center">  
 
