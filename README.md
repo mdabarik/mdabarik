@@ -4,14 +4,14 @@
 [![LeetCode Profile](https://raw.githubusercontent.com/mdabarik/mdabarik/main/images/github-banner-new-v2.png)](https://leetcode.com/mdabarik/)
 
 
-### 📈 Current Statistics
+### 📊 Current Statistics
 <div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdabarik&theme=dark)](https://git.io/streak-stats)
 </div>
 
 
-### 📫 Contact with me
+### 📧 Contact with me
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-a-barik/) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/mdabarik/)
