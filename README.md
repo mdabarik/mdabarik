@@ -5,7 +5,10 @@
 
 
 ### 📈 Current Statistics
+<div align="center">
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdabarik&theme=dark)](https://git.io/streak-stats)
+</div>
 
 
 ### 📫 Contact with me
