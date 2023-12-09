@@ -1,7 +1,7 @@
 
 <!-- https://raw.githubusercontent.com/mdabarik/mdabarik/main/images/banner.png -->
 <!-- ![Alt text](https://raw.githubusercontent.com/mdabarik/mdabarik/main/images/banner.png) -->
-[![LeetCode Profile](https://raw.githubusercontent.com/mdabarik/mdabarik/main/images/github-banner-new-v2.png)](https://leetcode.com/mdabarik/)
+[![LeetCode Profile](https://raw.githubusercontent.com/mdabarik/mdabarik/main/banner/git-banner-v-3.png)](https://leetcode.com/mdabarik/)
 
 <br />
 
