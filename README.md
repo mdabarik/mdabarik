@@ -13,12 +13,8 @@
 
 ### 📨 Contact with me
 <div align="center">
-<img src="https://raw.githubusercontent.com/mdabarik/mdabarik/main/images-icons/icons/gmail.png" alt="Mail" style="width: 100px; height: auto;">
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-a-barik/) 
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/mdabarik/)
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)](https://auth.geeksforgeeks.org/user/mdabarik)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCsQvox_DAmM8g027TnCNslA)
-[![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/user/abdul-barik-3/)
+<img src="https://raw.githubusercontent.com/mdabarik/mdabarik/main/images-icons/icons/gmail.png" alt="Mail" style="width: 50px; height: auto;">
+
 </div>
 
 ### 💻 Technical Skills
