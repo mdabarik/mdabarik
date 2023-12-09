@@ -12,9 +12,9 @@
 
 
 ### 📨 Contact with me
-<div align="center">
+<div align="center" style="display:flex;gap:5px">
 <a href="mailto:mdabarik19@gmail.com">
-  <img src="https://raw.githubusercontent.com/mdabarik/mdabarik/main/images-icons/icons/gmail.png" alt="Mail" style="width: 50px; height: auto;">
+  <img src="https://raw.githubusercontent.com/mdabarik/mdabarik/main/images-icons/icons/gmail.png" alt="Mail" style="width: 35px; height: auto;">
 </a>
 <a href="https://leetcode.com/mdabarik/">
   <img src="https://raw.githubusercontent.com/mdabarik/mdabarik/main/social-icons/leetcode.png" alt="Mail" style="width: 50px; height: auto;">
