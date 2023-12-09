@@ -63,5 +63,5 @@
 <!-- source: https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
 <div>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,materialui,react,nodejs,express,mongodb,firebase,git,github,c,java,r,postgresql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,materialui,react,nodejs,express,mongodb,firebase,git,github,c,java,r,postgresql)](https://leetcode.com/mdabarik/)
 </div>
