@@ -34,6 +34,12 @@
 ![](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 </div>
 
+<div align="center">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdabarik)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+<div align="center">
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdabarik&show_icons=true)  
+</div>
