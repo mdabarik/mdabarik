@@ -1,29 +1,22 @@
-
-<!-- https://raw.githubusercontent.com/mdabarik/mdabarik/main/images/banner.png -->
-<!-- ![Alt text](https://raw.githubusercontent.com/mdabarik/mdabarik/main/images/banner.png) -->
 [![LeetCode Profile](https://raw.githubusercontent.com/mdabarik/mdabarik/main/banner/git-banner-v-3.png)](https://leetcode.com/mdabarik/)
 
 <br />
 
-
 ### 📊 Current Statistics
-
-<div align="center">
+<div align="left">
 
 ![mdabarik's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mdabarik&theme=highcontrast&hide_border=true)
 </div>
 
-
-
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=mdabarik&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdabarik&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-
+<br />
 
 ### 📨 Contact With Me
-<div align="center">
+<div align="left">
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-a-barik/) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/mdabarik/)
@@ -42,9 +35,9 @@
 <br />
 
 ## 💻 My Technical Skills
-<table align="center"><tr align="center" ><td valign="top" width="100%">
+<table align="left"><tr align="left" ><td valign="top" width="100%">
 
-<div align="center">  
+<div align="left">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
